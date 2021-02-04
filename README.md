@@ -2,7 +2,7 @@
 
 - Simple hangman game!
 
-![Hangman](https://github.com/fergussmyth/Hangman/blob/main/HANGMAN.kpg)
+![Hangman](https://github.com/fergussmyth/Hangman/blob/main/HANGMAN.jpg)
 
 
 
